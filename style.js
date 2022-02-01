@@ -13,7 +13,7 @@ $(document).ready(function() {
 	$('#send').click(function() {
 		var msg = $("#message").val()
 		if (msg != "") {
-			$(location).attr('href',' https://wa.me/6285321613063?text='+msg);				
+			$(location).attr('href',' https://wa.me/6281388990520?text='+msg);				
 		}
 		});
 	});
